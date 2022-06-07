@@ -1,0 +1,15 @@
+#include<stdio.h>
+main()
+{
+//declaring variables
+int a=10,b=20,c=10;
+c=c+a;
+/*
+Checking if a is greater
+or b is greater
+*/
+if(a>b || c|a) {
+printf("a is greater");
+else
+printf("b is greater");
+}
